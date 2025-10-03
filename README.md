@@ -6,7 +6,8 @@ This repository contains an interactive **Diabetes Analytics Dashboard** built f
 The dashboard helps in identifying key trends and patterns for diabetes prediction and monitoring.
 
 ##  Dashboard Preview
-![Dashboard Screenshot](e6f8c538-1eff-47b4-aaf8-e7fefec3e1f3.png)
+<img width="1852" height="739" alt="image" src="https://github.com/user-attachments/assets/3e8c937b-d4b8-47ed-951a-b311fabc6ceb" />
+
 
 
 ##  Features
